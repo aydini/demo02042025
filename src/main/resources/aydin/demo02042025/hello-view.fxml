@@ -12,7 +12,7 @@
     </padding>
 
     <Label fx:id="welcomeText" />
-    <Button onAction="#onHelloButtonClick" text="Hello!" textFill="#0abc43">
+    <Button onAction="#onHelloButtonClick" text="new Branch!" textFill="#0abc43">
       <font>
          <Font name="System Bold" size="38.0" />
       </font></Button>
